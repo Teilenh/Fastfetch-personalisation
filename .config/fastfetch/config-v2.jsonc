@@ -17,22 +17,22 @@
   {
     "type": "os",
     "key": " DISTRO",
-    "keyColor": "orange",
+    "keyColor": "40",
   },
   {
     "type": "kernel",
     "key": " ├  ",
-    "keyColor": "orange",
+    "keyColor": "40",
   },
   {
     "type": "packages",
     "key": " ├ 󰏖 ",
-    "keyColor": "orange",
+    "keyColor": "40",
   },
   {
     "type": "shell",
     "key": " └  ",
-    "keyColor": "orange",
+    "keyColor": "40",
   },
   "break",
   {
